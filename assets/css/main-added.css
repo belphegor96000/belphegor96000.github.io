@@ -1,0 +1,53 @@
+
+
+.x-title {
+    font-weight: 700;
+    padding-bottom: 3px;
+}
+
+.x-name {
+    color: rgb(255, 255, 255) !important;
+    text-shadow: 15px 1px 12px rgb(255, 0, 140);
+}
+
+.x-p {
+    font-size: 19px;
+}
+
+.x-btn {
+    padding: 10px;
+}
+
+.x-live {}
+
+.x-code {}
+
+
+
+.fa-html5,
+.fa-css3, 
+.fa-js-square,
+.fa-github,
+.fa-wordpress {
+    font-size: 25px;
+    opacity: .9;
+}
+
+
+
+
+.fa-html5 {
+    color: orangered;
+}
+.fa-css3 {
+    color: rgb(66, 66, 214);
+}
+.fa-js-square {
+    color: rgb(255, 238, 6);
+}
+.fa-github1 {
+    color: blueviolet;
+}
+.fa-wordpress {
+    color: darkblue;
+}
